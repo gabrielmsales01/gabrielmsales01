@@ -4,7 +4,7 @@ Olá, me chamo Gabriel, e atualmente estou cursando Ciências da Computação. T
 
 - 🎓 Curso: Ciências da Computação (UDF)
 - 💼 Foco: Desenvolvimento Back‑end
-- 🌱 Tecnologias que estudo/uso: HTML, CSS, SQL
+- 🌱 Tecnologias que estudo/uso: HTML, CSS, SQL, PYTHON.
 - 📫 Contato: [biel9757454@gmail.com](mailto:biel9757454@gmail.com)
 
  Skills
