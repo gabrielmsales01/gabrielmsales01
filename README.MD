@@ -1,6 +1,6 @@
 # Olá 👋 Eu sou Gabriel Martins Sales
 
-Olá, me chamo Gabriel, e atualmente estou cursando Ciências da Computação. Tenho planos e metas que desejo bater atuando no Back‑end.
+Olá, me chamo Gabriel, e atualmente estou cursando Ciências da Computação. Tenho planos e metas que desejo bater atuando no Back‑end e com bancos de dados.
 
 - 🎓 Curso: Ciências da Computação (UDF)
 - 💼 Foco: Desenvolvimento Back‑end
